@@ -1,0 +1,12 @@
+{
+  "name": "VetPal — AI Veterinary & Livestock Health Ecosystem",
+  "description": "Comprehensive AI veterinary healthcare ecosystem for pet owners, livestock farmers, and veterinarians with smart triage, emergency response, teleconsultation, digital health passports, and disease surveillance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
